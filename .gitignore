@@ -1,0 +1,6 @@
+# Ignore IDE files
+.DS_Store
+.idea
+
+# Maven
+target/
